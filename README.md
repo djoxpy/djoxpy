@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋 My name is Ivan
+=====================
 
-<!--
-**djoxpy/djoxpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux Administrator
+-------------------
 
-Here are some ideas to get you started:
+I am skilled **Linux Administrator** with 2.5 years of experience in the IT industry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in **Warsaw**
+* ✉️  You can contact me at [ivan@bondar.work](mailto:ivan@bondar.work)
+* 🚀  I'm currently working on [NetQPro](http://netscan.pl/)
+* 🧠  I'm learning **Ansible** and **Docker**
+* ⚡  Fun fact: **I'm a DJ and I play music**
+
+
+
+
+<b>My GitHub Contributions</b>  (most of them are from private repositories)
+
+
+![image](https://github.com/djoxpy/djoxpy/assets/49994060/e2fdd39d-2b36-4c39-a0ba-41f2389c004b)

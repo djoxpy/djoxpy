@@ -10,7 +10,6 @@ I am skilled **Linux Administrator** with 2.5 years of experience in the IT indu
 * ✉️  You can contact me at [ivan@bondar.work](mailto:ivan@bondar.work)
 * 🚀  I'm currently working on [NetQPro](http://netscan.pl/)
 * 🧠  I'm learning **Ansible** and **Docker**
-* ⚡  Fun fact: **I'm a DJ and I play music**
 
 
 

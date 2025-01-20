@@ -4,7 +4,7 @@ Hi 👋 My name is Ivan
 Linux Administrator
 -------------------
 
-I am skilled **Linux Administrator** with 2.5 years of experience in the IT industry
+I am skilled **Linux Administrator** with 3.5 years of experience in the IT industry
 
 * 🌍  I'm based in **Warsaw**
 * ✉️  You can contact me at [ivan@bondar.work](mailto:ivan@bondar.work)

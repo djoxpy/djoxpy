@@ -9,12 +9,4 @@ I am skilled **Linux Administrator** with 3.5 years of experience in the IT indu
 * 🌍  I'm based in **Warsaw**
 * ✉️  You can contact me at [ivan@bondar.work](mailto:ivan@bondar.work)
 * 🚀  I'm currently working on [NetQPro](http://netscan.pl/)
-* 🧠  I'm learning **Ansible** and **Docker**
-
-
-
-
-<b>My GitHub Contributions</b>  (most of them are from private repositories)
-
-
-![image](https://github.com/djoxpy/djoxpy/assets/49994060/e2fdd39d-2b36-4c39-a0ba-41f2389c004b)
+* 🧠  I'm learning **CI/CD** and **Docker**
